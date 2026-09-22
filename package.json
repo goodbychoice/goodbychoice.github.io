@@ -1,0 +1,19 @@
+{
+  "name": "gbc-corporate-site",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/robots": "^6.0.8",
+    "@nuxtjs/sitemap": "^8.0.15",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "nuxt": "^4.4.2",
+    "vue": "^3.5.32"
+  }
+}
